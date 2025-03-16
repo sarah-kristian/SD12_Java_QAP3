@@ -102,6 +102,25 @@ This Java project models various geometric shapes using object-oriented principl
 
 ### Example Usage
 
+
+## Project 4: Implementation of Scalable Interface in Shapes Project
+
+### Overview
+To introduce the concept of multiple inheritance in Java, which is natively unsupported due to its complexity, this project utilizes interfaces. The `Scalable` interface provides a way to scale shapes without introducing the complexities of multiple inheritance.
+
+### Scalable Interface
+- **Purpose**: Allows objects to scale dynamically by a scaling factor.
+- **Key Method**:
+  - `scale(double factor)`: Scales the object's dimensions by the provided factor. This method is abstract and must be implemented by any class that implements the interface.
+
+### Integration with Shape Classes
+- **Abstract Shape Class**: Now implements the `Scalable` interface, allowing all derived shape classes to inherit the scaling capability.
+- **Specific Implementations**:
+  - Each concrete shape class (e.g., `Ellipse`, `Circle`, `Triangle`, `EquilateralTriangle`) overrides the `scale` method to adjust their specific dimensions according to the scaling factor.
+
+### Example Usage in Test Class
+
+
 ## Installation
 Clone the repository to your local machine using:
 ```bash git clone https://github.com/sarah-kristian/SD12_Java_QAP2```
