@@ -38,7 +38,7 @@ This Java project expands a basic High School management system by incorporating
 The classes can be used to simulate school-related activities and management tasks, allowing for detailed tracking and organization of both staff and student information.
 
 ### Implementation Example
-
+![Demo Output](images/SchoolTeam.png)
 
 
 
@@ -57,6 +57,7 @@ Java Class Implementation: Point and MovablePoint
 - Allows setting speed, moving the point based on its speed, and generating a string representation including speed.
 
 #### Usage Example
+![Demo Output](images/Points.png)
 
 
 ## Project 3: Shapes Inheritance Project
@@ -101,7 +102,7 @@ This Java project models various geometric shapes using object-oriented principl
 - Shows how inheritance can be used to extend classes with more specific functionalities.
 
 ### Example Usage
-
+![Demo Output](images/Shapes.png)
 
 ## Project 4: Implementation of Scalable Interface in Shapes Project
 
@@ -119,6 +120,7 @@ To introduce the concept of multiple inheritance in Java, which is natively unsu
   - Each concrete shape class (e.g., `Ellipse`, `Circle`, `Triangle`, `EquilateralTriangle`) overrides the `scale` method to adjust their specific dimensions according to the scaling factor.
 
 ### Example Usage in Test Class
+![Demo Output](images/scalableShapes.png)
 
 
 ## Installation
