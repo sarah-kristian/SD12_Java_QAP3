@@ -123,7 +123,7 @@ To introduce the concept of multiple inheritance in Java, which is natively unsu
 
 ## Installation
 Clone the repository to your local machine using:
-```bash git clone https://github.com/sarah-kristian/SD12_Java_QAP2```
+```bash git clone https://github.com/sarah-kristian/SD12_Java_QAP3```
 
-## Running Tests
-To run the tests, navigate to the directory containing the project files and run the appropriate commands for your Java environment.
+## Running Demos
+To run the demos, navigate to the directory containing the project files and run the appropriate commands for your Java environment.
