@@ -2,7 +2,7 @@ package SchoolAdmin;
 
 public class TeacherDemo {
     public static void main(String[] args) {
-
+        // create people (names provided by William Knee)
         Person rosie = new Person("Rosie", 28, "F");
         Student rosha = new Student("Rosha Brooke", 10, "N", "HS95129", 3.5);
         Teacher jeff = new Teacher("Jeff Java", 50, "M", "Computer Science", 50000);
